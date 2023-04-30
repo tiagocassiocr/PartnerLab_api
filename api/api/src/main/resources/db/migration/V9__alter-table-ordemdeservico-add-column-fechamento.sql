@@ -1,0 +1,1 @@
+alter table ordemdeservico add column motivofechamento varchar(100);

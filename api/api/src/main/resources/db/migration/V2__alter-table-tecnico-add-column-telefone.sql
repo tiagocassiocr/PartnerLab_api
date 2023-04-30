@@ -1,0 +1,1 @@
+alter table tecnico add telefone varchar(20) not null;
